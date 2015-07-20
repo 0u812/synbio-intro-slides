@@ -9,6 +9,21 @@
     "igem-2015.md",
     "igem-2012.md",
     "igem-2011.md",
+    "dna-polymerase.md",
     "polymerase.md",
-    "dna-polymerase.md"
+    "clash-of-the-titans.md",
+    "clash-of-the-titans-2.md",
+    "making-drugs-synthetically.md",
+    {
+        "filename": "what-will-you-design.md",
+        "attr": {
+            "data-background": "resources/earth-nasa-scaled.jpg"
+        }
+    },
+    {
+        "filename": "destiny-unfolding.md",
+        "attr": {
+            "data-background": "resources/milky-way.jpg"
+        }
+    }
 ]
